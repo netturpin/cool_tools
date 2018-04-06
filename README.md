@@ -19,3 +19,7 @@ A curated list of my day to day tools
 #### [pylint](https://www.pylint.org/)
 ### Bash
 #### [Shellchek](https://github.com/koalaman/shellcheck)
+
+## GUI
+### [meld](http://meldmerge.org/)
+### [retext](https://github.com/retext-project/retext)
